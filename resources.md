@@ -28,6 +28,7 @@
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
 4.  https://ebooks-it.org/0321992784-ebook.htm
+5.  https://disciplinas.stoa.usp.br/pluginfile.php/1995323/mod_resource/content/1/Effective%20Modern%20C%2B%2B%202014.pdf
 
 ### General CS
 https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
