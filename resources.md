@@ -9,8 +9,7 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-2. https://learn.saylor.org/course/index.php?categoryid=2
-3. http://www.cprogramming.com/tutorial/c++-tutorial.html
+2. http://www.cprogramming.com/tutorial/c++-tutorial.html
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
