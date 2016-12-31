@@ -9,7 +9,8 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
+2. https://learn.saylor.org/course/index.php?categoryid=2
+3. http://www.cprogramming.com/tutorial/c++-tutorial.html
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 
@@ -25,6 +26,9 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4.  https://ebooks-it.org/0321992784-ebook.htm
+### General CS
+https://courses.edx.org/dashboard
 
 ## Contents
 * [Rules](rules.md)
