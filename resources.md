@@ -30,7 +30,7 @@
 4.  https://ebooks-it.org/0321992784-ebook.htm
 
 ### General CS
-https://courses.edx.org/dashboard
+https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
 
 ## Contents
 * [Rules](rules.md)
